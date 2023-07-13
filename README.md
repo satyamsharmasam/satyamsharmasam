@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sharmasam93500@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **i am innocent by face not mind **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
