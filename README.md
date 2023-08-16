@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsharma&label=Profile%20views&color=0e75b6&style=flat" alt="satyamsharma" /> </p>
 
-- 🌱 I’m currently learning **DSA,IOT**
+- 🌱 I’m currently learning **DBMS**
 
-- 💬 Ask me about **Python,CSS,HTML**
+- 💬 Ask me about **Python,CSS,HTML,Iot**
 
 - 📫 How to reach me **sharmasam93500@gmail.com**
 
