@@ -6,13 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsharma&label=Profile%20views&color=0e75b6&style=flat" alt="satyamsharma" /> </p>
 
-- 🌱 I’m currently learning **PHP**
-
-- 💬 Ask me about **Python,CSS,HTML,Iot**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT JS**
 
 - 📫 How to reach me **sharmasam93500@gmail.com**
-
-- ⚡ Fun fact **i am innocent by face not mind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
