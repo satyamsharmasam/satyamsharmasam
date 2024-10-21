@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamsharma&label=Profile%20views&color=0e75b6&style=flat" alt="satyamsharma" /> </p>
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT JS**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT**
 
 - 📫 How to reach me **sharmasam93500@gmail.com**
 
